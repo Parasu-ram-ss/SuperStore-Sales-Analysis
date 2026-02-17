@@ -18,4 +18,20 @@ The dataset includes order details, customer information, product categories, sa
 •	Monitor customer behavior
 •	Improve decision-making through visual insights
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Project_Documentation.docx"> Project Overview </a>
+<a href="https://github.com/Parasu-ram-ss/SuperStore-Sales-Analysis/blob/main/E-Commerce_Sales_Dashboard_Project_Documentation_and_BRD.docx"> Project Overview </a>
+
+
+# Power Bi DashBoard.
+
+Overview Page – KPI summary and sales trends.
+
+Product Performance – Category and product-wise analysis.
+
+Customer & Regional Analysis – Sales distribution and customer insights.
+
+Profit & Discount Analysis – Profit trends and discount impact.
+
+
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/E-Commerce%20File.pbix"> PowerBI File </a>
+
+
