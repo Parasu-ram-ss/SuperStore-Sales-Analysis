@@ -32,6 +32,6 @@ Customer & Regional Analysis – Sales distribution and customer insights.
 Profit & Discount Analysis – Profit trends and discount impact.
 
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/E-Commerce%20File.pbix"> PowerBI File </a>
+<a href="https://github.com/Parasu-ram-ss/SuperStore-Sales-Analysis/blob/main/E-Commerce%20Dashboard.pbix"> PowerBI File </a>
 
 
