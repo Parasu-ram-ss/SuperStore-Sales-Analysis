@@ -36,6 +36,15 @@ Profit & Discount Analysis – Profit trends and discount impact.
 <a href="https://github.com/Parasu-ram-ss/SuperStore-Sales-Analysis/blob/main/E-Commerce%20Dashboard.pbix"> PowerBI File </a>
 
 
-<img width="1442" height="808" alt="Screenshot 2026-02-15 120052" src="https://github.com/user-attachments/assets/8a0db75b-50db-470b-b6a6-50ab17e03064" />
+<img width="1442" height="808" alt="Screenshot 2026-02-15 120052" src="https://github.com/Parasu-ram-ss/SuperStore-Sales-Analysis/blob/main/Screenshot%202026-02-17%20193350.png" />
+
+
+# Business Insights
+
+Reduced reporting time, improved visibility of sales trends, increased profitability, and better strategic planning.
+
+# Conclusion
+
+The dashboard provides a comprehensive view of sales performance, helping management make informed strategic decisions.
 
 
